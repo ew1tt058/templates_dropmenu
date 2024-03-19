@@ -1,4 +1,8 @@
 /* Стили для основного контейнера */
+.dropbtn:hover{
+background-color: red;
+transition: 0.8s;
+}
 .dropdown {
     position: relative;
     display: inline-block;
